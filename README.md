@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Saiful Islam Tanvin
 
-<!--
-**Saiful1253/Saiful1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student at IUBAT with a strong interest
+in software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 CSE Student at IUBAT
+- 💻 Interested in Software Development
+- 🔧 Working with C# and .NET
+- 🌐 Interested in Web Development
+- 🚗 Currently working on Smart Parking System
+- 📚 Passionate about building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+C • C++ • Java • C# • JavaScript • SQL
+
+### Frameworks & Technologies
+
+ASP.NET • ASP.NET Core • HTML • CSS • JavaScript  
+Entity Framework • MySQL • SQL Server
+
+### Tools
+
+Visual Studio • VS Code • Git • GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Smart Parking System
+
+A smart parking management system that allows users
+to find and book available parking spaces.
+
+### 🛒 E-Marketing Management System
+
+A management system for handling products,
+users and e-commerce operations.
+
+### 🎓 University Management System
+
+A system designed to manage university-related
+information and activities.
+
+---
+
+## 📊 GitHub
+
+I enjoy building projects and improving my programming skills
+through practical development.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 📷 Instagram
+- 🐙 GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
