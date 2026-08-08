@@ -1,6 +1,14 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF6B6B&center=true&width=600&height=60&lines=Hi+%2C+I'm+Saiful+Islam+Tanvin;CSE+Student+%7C+Software+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=150&section=header&text=Hi%2C%20I'm%20Saiful%20Islam%20Tanvin&fontSize=40&animation=fadeIn&fontAlignY=50&descAlignY=50&descSize=20&desc=Software%20Developer%20%7C%20CSE%20Student&descAlign=62" />
+
+</div>
+
+<div align="center">
+
+# 👋 Hi, I'm Saiful Islam Tanvin
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF6B6B,4ECDC4,FFE66D,95E1D3&center=true&vCenter=true&width=700&height=50&lines=CSE+Student+%7C+Software+Developer;Full+Stack+Developer;.NET+%7C+React+%7C+Node.js+Enthusiast;Building+Real-World+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -8,17 +16,22 @@
 
 <div align="center">
 
-## 🚀 About Me
+## 🌟 About Me
 
-I'm a passionate **Computer Science student at IUBAT** with a strong interest in software development and building practical applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+<img src="https://media.giphy.com/media/QMHnWwO8mCdDfDbZmj/giphy.gif" width="40px" height="40px"/>
 
-- 🎓 **CSE Student** at IUBAT
-- 💻 **Interested in** Software Development & Web Technologies
-- 🔧 **Working with** C# and .NET ecosystem
-- 🌐 **Exploring** Web Development & Modern Frameworks
-- 🚗 **Currently working on** Smart Parking System
-- 📚 **Passionate about** building real-world projects that solve real problems
-- 💡 Always eager to learn new technologies and best practices
+I'm a passionate **Computer Science student at IUBAT** with a strong interest in **software development** and **full-stack web technologies**. I love building real-world applications that solve practical problems and create impact.
+
+🎓 **CSE Student** at IUBAT | 💻 **Software Developer** | 🌐 **Full-Stack Enthusiast**
+
+- 🚀 **Currently focused on:** .NET Core, React.js, and Node.js development
+- 🌱 **Exploring:** Cloud platforms, modern web frameworks, and microservices
+- 💡 **Passionate about:** Clean code, scalable architecture, and user-centric design
+- 🎯 **Goal:** To become a skilled Full-Stack Developer and build impactful applications
+- 📚 **Always learning** new technologies and best practices
+- ☕ **Fueled by:** Coffee and curiosity
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/border-github.gif" width="400" alt="divider"/>
 
 </div>
 
@@ -26,30 +39,114 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Tools
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Technologies
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Tools & Platforms
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table style="border-collapse: separate; border-spacing: 15px; margin: 0 auto;">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C" />
+<br><b>C</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
+<br><b>C++</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" />
+<br><b>Java</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
+<br><b>C#</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+<br><b>JavaScript</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+<br><b>TypeScript</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" />
+<br><b><a href="https://react.dev/" target="_blank">React.js</a></b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+<br><b><a href="https://nodejs.org/" target="_blank">Node.js</a></b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express" />
+<br><b>Express.js</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
+<br><b><a href="https://nextjs.org/" target="_blank">Next.js</a></b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET Core" />
+<br><b>.NET Core</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" width="60" height="60" alt="ASP.NET" />
+<br><b>ASP.NET</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" />
+<br><b>Bootstrap</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind" />
+<br><b>Tailwind</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+<br><b>MySQL</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL Server" />
+<br><b>SQL Server</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+<br><b>GitHub</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" alt="VS" />
+<br><b>Visual Studio</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" />
+<br><b>Postman</b>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -59,48 +156,64 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 🚀 Featured Projects
 
+<table style="border-collapse: collapse; width: 100%; margin: 0 auto;">
+<tr>
+<td width="33%" style="vertical-align: top; padding: 20px; border: 2px solid #FF6B6B; border-radius: 15px; margin: 10px;">
+
 ### 🚗 Smart Parking System
+
 *A smart parking management system that allows users to find and book available parking spaces in real-time.*
 
-**Tech Stack:** C#, ASP.NET, SQL Server, JavaScript, HTML/CSS
+**Tech Stack:** C# · ASP.NET · SQL Server · JavaScript · HTML/CSS
 
 **Key Features:**
-- Real-time parking space availability
-- Online booking system
-- User-friendly dashboard
-- Admin panel for management
+- 🅿️ Real-time parking space availability
+- 📱 Online booking system
+- 📊 User-friendly dashboard
+- ⚙️ Admin management panel
+- 🔔 Booking notifications
 
-[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact Me](mailto:tanvinislam3273@gmail.com)
+[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
 
----
+</td>
+<td width="33%" style="vertical-align: top; padding: 20px; border: 2px solid #4ECDC4; border-radius: 15px; margin: 10px;">
 
 ### 🛒 E-Marketing Management System
+
 *A comprehensive management system for handling products, users, and e-commerce operations efficiently.*
 
-**Tech Stack:** C#, ASP.NET, MySQL, Entity Framework, JavaScript
+**Tech Stack:** C# · ASP.NET · MySQL · Entity Framework · JavaScript
 
 **Key Features:**
-- Product management
-- User authentication & authorization
-- Order tracking system
-- Admin dashboard
+- 📦 Product management
+- 👤 User authentication & authorization
+- 📦 Order tracking system
+- 📈 Admin analytics dashboard
+- 💳 Payment integration ready
 
-[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact Me](mailto:tanvinislam3273@gmail.com)
+[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
 
----
+</td>
+<td width="33%" style="vertical-align: top; padding: 20px; border: 2px solid #FFE66D; border-radius: 15px; margin: 10px;">
 
 ### 🎓 University Management System
+
 *A system designed to manage university-related information, student records, and academic activities.*
 
-**Tech Stack:** C#, ASP.NET Core, SQL Server, HTML/CSS, JavaScript
+**Tech Stack:** C# · ASP.NET Core · SQL Server · HTML/CSS · JavaScript
 
 **Key Features:**
-- Student information management
-- Course enrollment system
-- Grade management
-- Report generation
+- 🎓 Student information management
+- 📚 Course enrollment system
+- 📝 Grade management
+- 📊 Report generation
+- 🔐 Role-based access control
 
-[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact Me](mailto:tanvinislam3273@gmail.com)
+[🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -108,21 +221,19 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saiful1253&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" style="max-width: 400px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saiful1253&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&custom_title=GitHub%20Stats" alt="GitHub Stats" style="max-width: 400px;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful1253&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" style="max-width: 350px;"/>
-
-</div>
-
-<div style="margin-top: 20px;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiful1253&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FFFFFF&sideNums=FF6B6B" alt="GitHub Streak" style="max-width: 600px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful1253&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 350px;"/>
 
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiful1253&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FFFFFF&sideNums=FF6B6B&custom_title=Contribution%20Streak" alt="GitHub Streak" style="max-width: 650px; margin: 20px 0;"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/border-github.gif" width="400" alt="divider"/>
 
 </div>
 
@@ -132,7 +243,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saiful1253&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saiful1253&theme=radical&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=1&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -140,40 +251,30 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 <div align="center">
 
-## 📫 Connect With Me
+## 🛠️ Currently Building & Learning
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+<table style="border-collapse: collapse; width: 80%; margin: 0 auto;">
+<tr>
+<td style="padding: 15px; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white; width: 50%;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/tanvin-islam-6b293a417/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tanvinislam3273@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/saiful.islam.1699/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Saiful1253)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/saiful.islam.1699/)
+### 🌐 Web Development
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, ASP.NET Core
+- **Database:** SQL Server, MySQL, MongoDB
+- **Learning:** Full-stack MERN/MEAN stack
 
-</div>
+</td>
+<td style="padding: 15px; text-align: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; color: white; width: 50%;">
 
-</div>
+### ☁️ Cloud & DevOps
+- **Cloud Platforms:** Azure, AWS
+- **Containerization:** Docker
+- **CI/CD:** GitHub Actions
+- **Version Control:** Git, GitHub
 
----
-
-<div align="center">
-
-## 💡 Currently Learning & Exploring
-
-- **Web Development:** React, Angular, Node.js
-- **Cloud Platforms:** Azure, AWS basics
-- **DevOps Tools:** Docker, CI/CD pipelines
-- **Database:** Advanced SQL, NoSQL databases
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Saiful1253&style=flat-square&color=FF6B6B&label=Profile+Views" alt="Profile Views"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -181,13 +282,63 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 <div align="center">
 
-## ⭐ Fun Facts
+## 📫 Let's Connect
 
-- I love solving algorithmic problems
-- I enjoy contributing to open source projects
-- Always excited to learn new technologies
-- Coffee addict ☕
-- Night owl developer 🦉
+<img src="https://media.giphy.com/media/LnQjlWaWE1XhG/giphy.gif" width="50px" height="50px"/>
+
+<table style="border-collapse: collapse; width: 80%; margin: 20px auto;">
+<tr>
+<td align="center" style="padding: 10px;">
+<a href="https://www.linkedin.com/in/tanvin-islam-6b293a417/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/tanvin-islam-6b293a417/" alt="LinkedIn" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="mailto:tanvinislam3273@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&link=mailto:tanvinislam3273@gmail.com" alt="Gmail" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://www.facebook.com/saiful.islam.1699/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&link=https://www.facebook.com/saiful.islam.1699/" alt="Facebook" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 10px;">
+<a href="https://github.com/Saiful1253" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&link=https://github.com/Saiful1253" alt="GitHub" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://www.instagram.com/saiful.islam.1699/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/saiful.islam.1699/" alt="Instagram" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://react.dev/" target="_blank">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&link=https://react.dev/" alt="React.js" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 10px;">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&link=https://nodejs.org/" alt="Node.js" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&link=https://nextjs.org/" alt="Next.js" />
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://www.linkedin.com/in/tanvin-islam-6b293a417/" target="_blank">
+<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&link=mailto:tanvinislam3273@gmail.com" alt="Email" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,8 +346,63 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 <div align="center">
 
-**"The only way to do great work is to love what you do."** - Steve Jobs
+## 📈 Profile Visitors
 
-⭐ Thanks for visiting my profile! Feel free to connect with me.
+<img src="https://komarev.com/ghpvc/?username=Saiful1253&style=flat-square&color=FF6B6B&label=Profile%20Visitors&custom_title=Visitors" alt="Profile Visitors"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 My Development Philosophy
+
+> **"Clean code always looks like it was written by someone who cares."**
+
+I believe in writing maintainable, scalable, and efficient code. Every project is an opportunity to learn and improve.
+
+### 🎯 What I'm Focused On:
+- Building **full-stack applications** with modern technologies
+- Learning **React.js** and **Node.js** ecosystem
+- Creating **scalable backend systems** with .NET Core
+- Contributing to **open source projects**
+- Developing **real-world solutions** that make a difference
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/border-github.gif" width="400" alt="divider"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Fun Facts & Quirks
+
+- 🧠 I love solving algorithmic problems and participating in coding challenges
+- 🌟 I enjoy contributing to open source projects and learning from the community
+- 🚀 Always excited to learn new technologies and best practices
+- ☕ **Coffee addict** - can't code without it!
+- 🦉 **Night owl developer** - my best code happens after midnight
+- 🎵 Coding with lo-fi beats in the background
+- 📚 Always reading tech blogs and documentation
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=fadeIn&fontAlignY=70&descAlignY=80&desc=Let's%20connect%20and%20build%20something%20amazing!&descSize=16" />
+
+</div>
+
+<div align="center">
+
+### 💙 Made with ❤️ by Saiful Islam Tanvin
+
+⭐ **Star my repos** if you find them interesting!
+
+[⬆ Back to top](#)
 
 </div>
