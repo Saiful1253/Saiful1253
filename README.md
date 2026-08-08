@@ -157,7 +157,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
   </tr>
   <tr>
     <td style="padding: 0 20px 20px 20px; text-align: center;">
-      <a href="https://github.com/Saiful1253" target="_blank">
+      <a href="https://github.com/Saiful1253/Online-Shop-Management-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-f5576c?style=for-the-badge&logo=github&logoColor=white&labelColor=b83d4e" />
       </a>
     </td>
@@ -190,7 +190,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
   </tr>
   <tr>
     <td style="padding: 0 20px 20px 20px; text-align: center;">
-      <a href="https://github.com/Saiful1253" target="_blank">
+      <a href="https://school-management-system-93759059985.asia-southeast1.run.app/" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-00f2fe?style=for-the-badge&logo=github&logoColor=white&labelColor=009bb3" />
       </a>
     </td>
