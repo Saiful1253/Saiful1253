@@ -137,14 +137,6 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
 <br><b>VS Code</b>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" />
-<br><b>Postman</b>
-</td>
 </tr>
 </table>
 
@@ -264,7 +256,6 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ### ☁️ Cloud & DevOps
 - **Cloud Platforms:** Azure, AWS
-- **Containerization:** Docker
 - **CI/CD:** GitHub Actions
 - **Version Control:** Git, GitHub
 
