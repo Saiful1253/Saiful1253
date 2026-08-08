@@ -223,15 +223,11 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+<img src="https://github-readme-stats.vercel.app/api?username=Saiful1253&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saiful1253&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&custom_title=GitHub%20Stats" alt="GitHub Stats" style="max-width: 400px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful1253&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful1253&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 350px;"/>
-
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiful1253&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FFFFFF&sideNums=FF6B6B&custom_title=Contribution%20Streak" alt="GitHub Streak" style="max-width: 650px; margin: 20px 0;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiful1253&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/border-github.gif" width="400" alt="divider"/>
 
@@ -243,7 +239,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saiful1253&theme=radical&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=1&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saiful1253&theme=radical&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -290,51 +286,51 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 <tr>
 <td align="center" style="padding: 10px;">
 <a href="https://www.linkedin.com/in/tanvin-islam-6b293a417/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/tanvin-islam-6b293a417/" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="mailto:tanvinislam3273@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&link=mailto:tanvinislam3273@gmail.com" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="https://www.facebook.com/saiful.islam.1699/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&link=https://www.facebook.com/saiful.islam.1699/" alt="Facebook" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" style="padding: 10px;">
 <a href="https://github.com/Saiful1253" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&link=https://github.com/Saiful1253" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="https://www.instagram.com/saiful.islam.1699/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/saiful.islam.1699/" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&link=https://react.dev/" alt="React.js" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React.js" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" style="padding: 10px;">
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&link=https://nodejs.org/" alt="Node.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&link=https://nextjs.org/" alt="Next.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
 </a>
 </td>
 <td align="center" style="padding: 10px;">
 <a href="mailto:tanvinislam3273@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&link=mailto:tanvinislam3273@gmail.com" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
 </a>
 </td>
 </tr>
@@ -348,7 +344,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 📈 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=Saiful1253&style=flat-square&color=FF6B6B&label=Profile%20Visitors&custom_title=Visitors" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Saiful1253&style=flat-square&color=FF6B6B&label=Profile%20Visitors" alt="Profile Visitors"/>
 
 </div>
 
