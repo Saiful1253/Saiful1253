@@ -63,8 +63,8 @@ through practical development.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
+- 💼 LinkedIn: https://www.linkedin.com/in/tanvin-islam-6b293a417/
+- 📧 Email :
 - 📷 Instagram
 - 🐙 GitHub
 
