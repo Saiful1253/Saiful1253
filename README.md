@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Saiful Islam Tanvin
+<h1 style="font-size: 3.5rem; color: #fff; text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15); margin: 20px 0;">👋 Hi, I'm Saiful Islam Tanvin</h1>
 
-### 🎓 CSE Student at IUBAT | 💻 Software Developer | 🌐 Full-Stack Enthusiast
+<h3 style="color: #FF6B6B; font-weight: 600;">🎓 CSE Student at IUBAT | 💻 Software Developer | 🌐 Full-Stack Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B,4ECDC4,FFE66D&center=true&vCenter=true&width=600&height=40&lines=.NET+Developer;React.js+%7C+Node.js+Learner;Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
