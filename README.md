@@ -1,10 +1,12 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=fff&backgroundColor=333" />
 
-<h1 style="font-size: 3.5rem; color: #fff; text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15); margin: 20px 0;">👋 Hi, I'm Saiful Islam Tanvin</h1>
+# 👋 Hi, I'm **Saiful Islam Tanvin**
 
-<h3 style="color: #FF6B6B; font-weight: 600;">🎓 CSE Student at IUBAT | 💻 Software Developer | 🌐 Full-Stack Enthusiast</h3>
+### 🎓 CSE Student at IUBAT | 💻 Software Developer | 🌐 Full-Stack Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B,4ECDC4,FFE66D&center=true&vCenter=true&width=600&height=40&lines=.NET+Developer;React.js+%7C+Node.js+Learner;Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&height=45&lines=.NET+Developer;React.js+%7C+Node.js+Learner;Full-Stack+Web+Developer;Building+Real-World+Projects;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -62,6 +64,10 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🚗 Smart Parking System
 *A smart parking management system that allows users to find and book available parking spaces in real-time.*
 
@@ -75,7 +81,8 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 [🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
 
----
+    </td>
+    <td width="50%" valign="top">
 
 ### 🛒 E-Marketing Management System
 *A comprehensive management system for handling products, users, and e-commerce operations efficiently.*
@@ -90,7 +97,10 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 [🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
 
----
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎓 University Management System
 *A system designed to manage university-related information, student records, and academic activities.*
@@ -104,6 +114,10 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 - 📊 Report generation
 
 [🔗 View Project](https://github.com/Saiful1253) | [📧 Contact](mailto:tanvinislam3273@gmail.com)
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -137,26 +151,26 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 
 ## 🛠️ Currently Building & Learning
 
-<table style="border-collapse: collapse; width: 80%; margin: 0 auto;">
-<tr>
-<td style="padding: 15px; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white; width: 50%;">
-
+<table style="border-collapse: collapse; width: 90%; margin: 0 auto;">
+  <tr>
+    <td style="padding: 20px; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white; width: 50%; border: 2px solid #667eea; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
+      
 ### 🌐 Web Development
 - **Frontend:** React.js, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, ASP.NET Core
 - **Database:** SQL Server, MySQL, MongoDB
 - **Learning:** Full-stack MERN/MEAN stack
 
-</td>
-<td style="padding: 15px; text-align: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; color: white; width: 50%;">
-
+    </td>
+    <td style="padding: 20px; text-align: center; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; color: white; width: 50%; border: 2px solid #f093fb; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
+      
 ### ☁️ Cloud & DevOps
 - **Cloud Platforms:** Azure, AWS
 - **CI/CD:** GitHub Actions
 - **Version Control:** Git, GitHub
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -242,6 +256,8 @@ I believe in writing maintainable, scalable, and efficient code. Every project i
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=80&section=footer&animation=twinkling&fontColor=fff&backgroundColor=333" />
 
 ### 💙 Made with ❤️ by Saiful Islam Tanvin
 
