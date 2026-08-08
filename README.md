@@ -333,7 +333,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
 </a>
 </td>
 <td align="center" style="padding: 10px;">
-<a href="https://www.linkedin.com/in/tanvin-islam-6b293a417/" target="_blank">
+<a href="mailto:tanvinislam3273@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&link=mailto:tanvinislam3273@gmail.com" alt="Email" />
 </a>
 </td>
