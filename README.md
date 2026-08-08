@@ -124,7 +124,7 @@ I'm a passionate **Computer Science student at IUBAT** with a strong interest in
   </tr>
   <tr>
     <td style="padding: 0 20px 20px 20px; text-align: center;">
-      <a href="https://github.com/Saiful1253" target="_blank">
+      <a href="https://saiful1253.github.io/smart-parking-system/" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=4a3b6b" />
       </a>
     </td>
